@@ -1,0 +1,1 @@
+$(document).ready((function(){$(".header-burger").click((function(e){$(".header-burger, .main-nav__list").toggleClass("active")}))}));
